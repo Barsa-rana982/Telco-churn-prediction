@@ -1,7 +1,7 @@
 # Telco-churn-prediction
 ![GitHub last commit](https://img.shields.io/github/last-commit/Barsa-rana982/Telco-churn-prediction)
 ![Repo size](https://img.shields.io/github/repo-size/Barsa-rana982/Telco-churn-prediction)
-![License](LICENSE)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Project Overview
 
