@@ -1,5 +1,4 @@
 # Telco-churn-prediction
-# Telco Churn Prediction
 
 ## Project Overview
 
