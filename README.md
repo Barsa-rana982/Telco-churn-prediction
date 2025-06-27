@@ -8,10 +8,10 @@ Customer churn is a major concern in the telecom industry. This project analyzes
 By identifying key patterns, Telcos can proactively address customer needs and improve retention.
 
 ## Repository Structure
-/data → Raw and processed datasets
-/notebooks → Jupyter notebooks for EDA and modeling
-/outputs → Model results, reports, and logs
-/images → Visualizations for documentation and presentation
+- /data → Raw and processed datasets
+- /notebooks → Jupyter notebooks for EDA and modeling
+- /outputs → Model results, reports, and logs
+- /images → Visualizations for documentation and presentation
 
 
 ## Dataset
