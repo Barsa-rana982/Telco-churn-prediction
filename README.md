@@ -35,7 +35,7 @@ By identifying key patterns, Telcos can proactively address customer needs and i
 
 Notebook development and model training are underway. Updates will be reflected regularly.
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 To run the project locally:
 
